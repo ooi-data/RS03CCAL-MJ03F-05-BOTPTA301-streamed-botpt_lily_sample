@@ -1,5 +1,5 @@
-data_ready: false
+data_ready: true
 data_stream: RS03CCAL-MJ03F-05-BOTPTA301-streamed-botpt_lily_sample
 last_request: '2021-09-29T17:55:51.605958Z'
 response: https://raw.githubusercontent.com/ooi-data/RS03CCAL-MJ03F-05-BOTPTA301-streamed-botpt_lily_sample/main/history/response.json
-status: pending
+status: success
